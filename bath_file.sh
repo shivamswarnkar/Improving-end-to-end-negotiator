@@ -8,7 +8,7 @@
 
 module purge
 module load pytorch/python3.6/gnu/20171124
-cd /home/ss8464/dl/nego/src
+cd /home/vvb231/nrgo2/end-to-end-negotiator-master/src
 python train.py \
   --data data/negotiate \
   --cuda \
